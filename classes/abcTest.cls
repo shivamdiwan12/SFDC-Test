@@ -5,4 +5,8 @@ public class abcTest{
     String s7 = '';
     String str2 = '';
     //another testing
+    String s3 = '';
+    String s4 = '';
+    String str2 = '';
+    //testing
 }
